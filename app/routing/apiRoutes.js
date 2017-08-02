@@ -25,7 +25,7 @@ module.exports = function(app){
 
 		// var score = friendsData[2].score[3];
 		//for loop friend object each one to get the score
-		//for loop 
+		
 		var user = req.body;
 		var userScore = user.scores;
 
